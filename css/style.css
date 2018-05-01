@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+body{ font-family:'Open Sans', sans-serif;
+	color: #333;
+	font-size: 14px;
+}
+
+#sec-rs{
+background-color: #555;
+color: #fff;
+padding: 10px 0px; 
+}
+
+#sec-rs .fab{
+color: #fff;
+}
+
+#sec-rs .fab:hover{
+	color: #333;
+}
+
+#hero-fondo{
+	background-image: url(../img/bg-hero.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+#hero-fondo h1 spam {
+color:#E96A57;
+}
+
+#hight h2 spam{
+font-weight: 800;
+}
+
+#saying h3 spam{
+	font-weight: 800;
+}
+
+#saying{
+	padding: 10px 0px;
+}
+
+#saying h3{
+	margin-bottom: 20px; 
+}
+
+.cuadro{
+	background-color: #efefef;
+	text-align: center;
+	padding: 50px 10px 10px;
+	
+}
+
+.circulo{
+	border-radius: 100%;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	color: #fff;
+	background-color: #00B7F9;
+	font-size: 35px;
+}
+
+
+
+.circulo.naranja{
+	border-radius: 100%;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	color: #fff;
+	background-color: #FF7408;
+	font-size: 35px;
+}
+
+
+.circulo.verde{
+	border-radius: 100%;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	color: #fff;
+	background-color: #66F94F;
+	font-size: 35px;
+}
+
+.circulo.amarillo{
+	border-radius: 100%;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	color: #fff;
+	background-color: #F7FD01;
+	font-size: 35px;
+}
+
+
+#iconos h3 spam{
+	color: #FF7105;
+	
+}
+
+footer{
+	margin: 15px;
+	background-color: #393939;
+}
+
+footer h3{
+	color: #fff;
+}
+
+footer a{
+	color: #fff;
+}
+
+footer p{
+	color: #fff;
+}
+footer far{
+	color: #fff;
+}
+
